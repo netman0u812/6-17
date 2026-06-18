@@ -1,0 +1,42 @@
+﻿https://jenkins-digital.cvshealth.com/,
+,
+https://jenkins-sprx-01.cvshealth.com/,
+,
+https://jenkins-pbm-01.cvshealth.com/,
+,
+https://jenkins-retail-01.cvshealth.com/,
+,
+https://jenkins.cvshealth.com/,
+,
+https://nexus-ha.cvshealth.com:9443/,
+,
+https://nexus-az.cvshealth.com:9443/,
+,
+https://cicd-nexusenterprise.cvshealth.com:8443,
+,
+10.242.66.128/26,Azure Octopus Prod Subnet (snet-corpappspkoctopusprod000)
+10.242.66.192/27,Azure Octopus Prod Subnet (snet-corpappspkoctopusprod001)
+,
+,
+10.249.16.18,Jenkins CVS
+,
+10.242.66.192/27,Jenkins Azure
+    10.155.107.0/28,
+    10.155.107.16/28,
+    10.242.66.128/26,
+    10.242.66.224/27,
+    10.242.10.240/28,
+    10.155.76.64/26,
+    10.155.79.0/28,
+    10.155.79.48/28,
+    10.155.107.32/27,
+10.249.8.0/22,Jenkins Agents
+,GIT Runners
+10.83.217.128/26,nsg-corp-cicd1-nonprod-usc-ntwk
+10.83.223.128/26,nsg-corp-cicd2-nonprod-usc-ntwk
+10.83.141.128/26,nsg-corp-cicd1-prod-usc-ntwk
+10.83.141.64/26,nsg-corp-cicd2-prod-usc-ntwk
+10.85.133.96/27,nsg-corp-ans1-prod-usc-ntwk
+10.85.133.160/27,nsg-corp-ans2-prod-usc-ntwk
+10.85.133.32/27,nsg-corp-gcp1-prod-usc-ntwk
+10.85.133.64/27,nsg-corp-gcp2-prod-usc-ntwk
